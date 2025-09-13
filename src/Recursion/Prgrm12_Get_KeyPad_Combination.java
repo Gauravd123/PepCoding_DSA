@@ -6,7 +6,7 @@ public class Prgrm12_Get_KeyPad_Combination {
 
 	public static void main(String[] args) {
 
-		ArrayList<String> words = getKPC("678");
+		ArrayList<String> words = getKPC("79");
 		System.out.println(words);
 	}
 
