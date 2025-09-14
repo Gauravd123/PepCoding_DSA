@@ -7,7 +7,7 @@ public class Prgrm11_GetSubSequence {
 	public static void main(String[] args) {
 		
 		
-		ArrayList<String> res = gss("abc");
+		ArrayList<String> res = gss("123");
 		System.out.println(res);
 	}
 

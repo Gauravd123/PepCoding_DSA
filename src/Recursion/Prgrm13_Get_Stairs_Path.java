@@ -7,7 +7,7 @@ public class Prgrm13_Get_Stairs_Path {
 	public static void main(String[] args) {
 
 		
-		ArrayList<String> res = getStairsPath(3);
+		ArrayList<String> res = getStairsPath(4);
 		System.out.println(res);
 	}
 	
